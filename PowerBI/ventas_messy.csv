@@ -1,7 +1,0 @@
-Order_ID,Date,Product_Info,Store_Location,Sales_Amount
-1001,2024-01-01,Laptop-Dell-XPS,USA-NewYork,$1200
-1002,2024-01-01,Mouse-Logitech-G502,USA-NewYork,$50
-1003,,Laptop-Dell-XPS,ARG-Rosario,$1200
-1004,2024-01-03,Monitor-Samsung-24,ARG-Rosario,200 USD
-1005,2024-01-03,Mouse-Logitech-G502,USA-Miami,$50
-1006,2024-01-04,Monitor-LG-27,ARG-BuenosAires,35000 ARS

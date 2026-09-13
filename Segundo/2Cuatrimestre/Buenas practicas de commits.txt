@@ -1,0 +1,23 @@
+Taxonomía de Prefijos
+
+feat: (Feature) Añade una nueva funcionalidad o bloque de contenido al proyecto.
+
+fix: (Patch) Soluciona un error, fallo lógico o comportamiento anómalo en el código.
+
+chore: Tareas de mantenimiento, configuración de herramientas, modificaciones en .gitignore o actualización de dependencias que no alteran el código fuente.
+
+docs: Modificaciones exclusivas en la documentación (ej. README.md).
+
+refactor: Reestructuración o limpieza de código existente para mejorar su eficiencia o legibilidad, sin añadir funcionalidades ni corregir errores.
+
+style: Cambios de formato que no afectan la lógica (alineación, indentación, espacios en blanco).
+
+test: Adición o corrección de pruebas de código.
+
+Reglas de Redacción y Buenas Prácticas
+
+Modo Imperativo: El mensaje debe leerse como una orden directa al sistema. Utiliza verbos como "agregar", "corregir", "eliminar" o "actualizar" (ej. feat: agregar submodulo de redes de datos). Evita el pasado ("agregado") o el gerundio ("agregando").
+
+Límite de Longitud: Mantén la primera línea del mensaje (el asunto) por debajo de los 72 caracteres. Esto previene la fragmentación y asegura una lectura limpia al auditar el historial en la terminal con comandos como git log --oneline.
+
+Atomicidad de los Cambios: Cada commit debe representar una única unidad lógica de trabajo. No empaquetes alteraciones de distinta naturaleza juntos; si corriges un script y además actualizas la documentación, ejecuta dos commits separados (fix: y luego docs:).
