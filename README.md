@@ -26,8 +26,19 @@ Tambien estoy subiendo mis practicas de datasets extraidos de kaggle relacionada
 ---------------------------------------------------------------------------------------------------------------
 
 ## [MachineLearning](./MachineLearning)
+Contiene notebooks de regresión, clasificación y clustering.
+Incluye práctica con numpy, pandas y scikit-learn.
+Tiene subcarpetas para HousePrices y Titanic de Kaggle.
 
 ## [DeepLearning](./DeepLearning)
 
-## [EDA](./EDA)
+Contiene notebooks de práctica con PyTorch y TensorFlow.
+Incluye modelos entrenados guardados en formato .pth.
 
+## [EDA](./EDA)
+Contiene notebooks de análisis exploratorio de datos.
+Cubre datasets de acciones, streaming, retail y Titanic.
+
+## [PowerBI Curso](./PowerBI)
+Contiene archivos .pbix de práctica con Power BI.
+Incluye certificados del curso Santander y datasets de ejemplo.
