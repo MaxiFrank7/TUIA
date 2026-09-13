@@ -16,8 +16,11 @@ Tambien estoy subiendo mis practicas de datasets extraidos de kaggle relacionada
 * [Programación III](./TUIA_Segundo/1Cuatrimestre/3C_Programacion_III)
 * [Ciencia de Datos](./TUIA_Segundo/1Cuatrimestre/3C_Fundamentos_Ciencia_Datos)
 ### [Segundo Cuatrimestre](./TUIA_Segundo/2Cuatrimestre)
-*
-*
+* [Aprendizaje Automatico 1] (./TUIA_Segundo/2Cuatrimestre/4C_MachineLearning)
+* [Minería de Datos] (./TUIA_Segundo/2Cuatrimestre/4C_DataMining)
+* [Procesamiento de Imagenes 1] (./TUIA_Segundo/2Cuatrimestre/4C_Imagenes1)
+* [Procesamiento Natural del Lenguaje] (./TUIA_Segundo/2Cuatrimestre/4C_PNL)
+
 
 ---------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------
