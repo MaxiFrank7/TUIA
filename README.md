@@ -16,15 +16,29 @@ Tambien estoy subiendo mis practicas de datasets extraidos de kaggle relacionada
 * [Programación III](./TUIA_Segundo/1Cuatrimestre/3C_Programacion_III)
 * [Ciencia de Datos](./TUIA_Segundo/1Cuatrimestre/3C_Fundamentos_Ciencia_Datos)
 ### [Segundo Cuatrimestre](./TUIA_Segundo/2Cuatrimestre)
-*
-*
+* [Aprendizaje Automatico 1](./TUIA_Segundo/2Cuatrimestre/4C_MachineLearning)
+* [Minería de Datos](./TUIA_Segundo/2Cuatrimestre/4C_DataMining)
+* [Procesamiento de Imagenes 1](./TUIA_Segundo/2Cuatrimestre/4C_Imagenes1)
+* [Procesamiento Natural del Lenguaje](./TUIA_Segundo/2Cuatrimestre/4C_PNL)
+
 
 ---------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------
 
 ## [MachineLearning](./MachineLearning)
+Contiene notebooks de regresión, clasificación y clustering.
+Incluye práctica con numpy, pandas y scikit-learn.
+Tiene subcarpetas para HousePrices y Titanic de Kaggle.
 
 ## [DeepLearning](./DeepLearning)
 
-## [EDA](./EDA)
+Contiene notebooks de práctica con PyTorch y TensorFlow.
+Incluye modelos entrenados guardados en formato .pth.
 
+## [EDA](./EDA)
+Contiene notebooks de análisis exploratorio de datos.
+Cubre datasets de acciones, streaming, retail y Titanic.
+
+## [PowerBI Curso](./PowerBI)
+Contiene archivos .pbix de práctica con Power BI.
+Incluye certificados del curso Santander y datasets de ejemplo.
