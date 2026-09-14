@@ -1,44 +1,51 @@
-# MaxiFrank7
+# TUIA — Tecnicatura Universitaria en Inteligencia Artificial
 
-Repositorios donde subo las ejercitaciones de todas aquellas materias que requieran código de la TUIA en UNR.
-Tambien estoy subiendo mis practicas de datasets extraidos de kaggle relacionadas al MachineLearning DeepLearning y EDA
+Índice de materias, trabajos prácticos y apuntes de la cursada en la UNR.
 
-## Primer Año
+## Sobre mí
 
-### [Segundo Cuatrimestre](./TUIA_Primero/2Cuatrimestre)
+Estudiante de la Tecnicatura Universitaria en Inteligencia Artificial (UNR).
+Inicio: 2025. Egreso previsto: julio 2027.
+Contacto: [LinkedIn](https://www.linkedin.com/in/maximiliano-frank-5641b6169/) | [Email](mailto:maximilianofrank007@gmail.com)
 
-* [Programación 2](./TUIA_Primero/2Cuatrimestre/Programacion2)
-* [Bases de Datos I](./TUIA_Primero/2Cuatrimestre/BasesdeDatos1)
+## Estructura del repositorio
 
-## Segundo Año
+| Carpeta | Descripción | Enlace |
+|---|---|---|
+| Primero | Materias de primer año | [Ver carpeta](./Primero) |
+| Segundo | Materias de segundo año | [Ver carpeta](./Segundo) |
 
-### [Primer Cuatrimestre](./TUIA_Segundo/1Cuatrimestre)
-* [Programación III](./TUIA_Segundo/1Cuatrimestre/3C_Programacion_III)
-* [Ciencia de Datos](./TUIA_Segundo/1Cuatrimestre/3C_Fundamentos_Ciencia_Datos)
-### [Segundo Cuatrimestre](./TUIA_Segundo/2Cuatrimestre)
-* [Aprendizaje Automatico 1](./TUIA_Segundo/2Cuatrimestre/4C_MachineLearning)
-* [Minería de Datos](./TUIA_Segundo/2Cuatrimestre/4C_DataMining)
-* [Procesamiento de Imagenes 1](./TUIA_Segundo/2Cuatrimestre/4C_Imagenes1)
-* [Procesamiento Natural del Lenguaje](./TUIA_Segundo/2Cuatrimestre/4C_PNL)
+## Primero — Segundo Cuatrimestre
 
+- [Programación 2](./Primero/2Cuatrimestre/Programacion2) — recursión, complejidad, POO, TADs, árboles y grafos
+- [Bases de Datos I](./Primero/2Cuatrimestre/BasesdeDatos1) — modelo relacional, SQL, normalización, procedimientos almacenados
 
----------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------
+**Herramientas:** Python, SQL
 
-## [MachineLearning](./MachineLearning)
-Contiene notebooks de regresión, clasificación y clustering.
-Incluye práctica con numpy, pandas y scikit-learn.
-Tiene subcarpetas para HousePrices y Titanic de Kaggle.
+## Segundo — Primer Cuatrimestre
 
-## [DeepLearning](./DeepLearning)
+- [Programación III](./Primero/2Cuatrimestre/../../Segundo/1Cuatrimestre/3C_Programacion_III) — resúmenes y prácticas teóricas
+- [Fundamentos de Ciencia de Datos](./Segundo/1Cuatrimestre/3C_Fundamentos_Ciencia_Datos) — manipulación de datos, EDA, visualización, ajuste de modelos
+- [Bases de Datos II](./Segundo/1Cuatrimestre/3C_Bases_de_Datos_II) — modelado dimensional, OLAP, NoSQL, explotación de datos
+- [Redes de Datos](./Segundo/1Cuatrimestre/3C_Redes_de_Datos) — teoría y práctica de redes
 
-Contiene notebooks de práctica con PyTorch y TensorFlow.
-Incluye modelos entrenados guardados en formato .pth.
+**Herramientas:** Python, pandas, SQL
 
-## [EDA](./EDA)
-Contiene notebooks de análisis exploratorio de datos.
-Cubre datasets de acciones, streaming, retail y Titanic.
+## Segundo — Segundo Cuatrimestre
 
-## [PowerBI Curso](./PowerBI)
-Contiene archivos .pbix de práctica con Power BI.
-Incluye certificados del curso Santander y datasets de ejemplo.
+- [Machine Learning](./Segundo/2Cuatrimestre/4C_MachineLearning) — EDA, regresión lineal, modelos de clasificación, ajuste fino, introducción a Deep Learning, MLOps
+- [Data Mining](./Segundo/2Cuatrimestre/4C_DataMining) — unidades U1 a U6
+- [Procesamiento de Imágenes I](./Segundo/2Cuatrimestre/4C_Imagenes1) — unidades U1 a U7, prácticas con resultados gráficos
+- [Procesamiento Natural del Lenguaje](./Segundo/2Cuatrimestre/4C_PNL) — unidades U1 a U7, TP1
+
+**Herramientas:** Python, scikit-learn, procesamiento de imágenes, NLP
+
+## Tecnologías
+
+`Python` · `SQL` · `pandas` · `scikit-learn` · `Power BI` · `NoSQL` · `OLAP`
+
+## Contacto
+
+- Email: maximilianofrank007@gmail.com
+- LinkedIn: https://www.linkedin.com/in/maximiliano-frank-5641b6169/
+- GitHub: https://github.com/MaxiFrank7
