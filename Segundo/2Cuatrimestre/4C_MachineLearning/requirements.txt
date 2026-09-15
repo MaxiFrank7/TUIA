@@ -4,6 +4,8 @@ scipy
 matplotlib
 seaborn
 scikit-learn
+catboost
+kagglehub
 # Opcional: soporte para Jupyter Notebooks / VS Code
 ipykernel
 jupyterlab
