@@ -12,7 +12,8 @@ def imshow(img, new_fig=True, title=None, color_img=False, blocking=False, color
         plt.imshow(img, cmap='gray')
     plt.title(title)
     if not ticks:
-        plt.xticks([]), plt.yticks([])
+        plt.xticks([])
+        plt.yticks([])
     if colorbar:
         plt.colorbar()
     if new_fig:        
@@ -21,7 +22,7 @@ def imshow(img, new_fig=True, title=None, color_img=False, blocking=False, color
 # -------------------------------------------------------------------------------
 # --- Detección de puntos -------------------------------------------------------
 # -------------------------------------------------------------------------------
-f = cv2.imread('punto.tif', cv2.IMREAD_GRAYSCALE)   # Leemos imagen
+f = cv2.imread(r'D:\Github\TUIA\Segundo\2Cuatrimestre\4C_Imagenes1\U3\Codigo\punto.tif', cv2.IMREAD_GRAYSCALE)   # Leemos imagen
 imshow(f, title="Imagen con un punto oculto")
 
 w = -1*np.ones((3,3))                   # Definimos el kernel para...
