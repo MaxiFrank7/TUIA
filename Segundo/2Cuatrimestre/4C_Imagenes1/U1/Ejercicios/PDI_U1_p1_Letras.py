@@ -11,7 +11,7 @@ rectángulo de color (Caja contenedora o Bounding Box).
 """
 
 # --- Cargo imagen ------------------------------------------------------------
-img = cv2.imread(r'C:\OneDrive\2025_Cosas_Mias_TUIA\GitHub\TUIA_Segundo\2Cuatrimestre\4C_Imagenes1\U1\Codigo\letras.png',cv2.IMREAD_GRAYSCALE) 
+img = cv2.imread('letras.png',cv2.IMREAD_GRAYSCALE) 
 img.shape
 plt.figure(), plt.imshow(img, cmap='gray'), plt.show(block=False)                    
 
