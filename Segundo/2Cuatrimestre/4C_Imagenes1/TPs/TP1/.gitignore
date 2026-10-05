@@ -1,0 +1,13 @@
+# Entorno virtual
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Imágenes de salida del problema 2b (se generan al correr problema2.py)
+no_aprobados_*.png
